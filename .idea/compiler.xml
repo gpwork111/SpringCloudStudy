@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="crcc-study-eureka" />
+        <module name="crcc-study-feign" />
+        <module name="crcc-study-ribbon" />
+        <module name="crcc-study-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="crcc-study-eureka" target="1.8" />
+      <module name="crcc-study-feign" target="1.8" />
+      <module name="crcc-study-ribbon" target="1.8" />
+      <module name="crcc-study-springcloud" target="1.8" />
+      <module name="crcc-study-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

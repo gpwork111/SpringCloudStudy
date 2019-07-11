@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crcc-study-eureka/crcc-study-eureka.iml" filepath="$PROJECT_DIR$/crcc-study-eureka/crcc-study-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crcc-study-feign/crcc-study-feign.iml" filepath="$PROJECT_DIR$/crcc-study-feign/crcc-study-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crcc-study-ribbon/crcc-study-ribbon.iml" filepath="$PROJECT_DIR$/crcc-study-ribbon/crcc-study-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crcc-study-springcloud.iml" filepath="$PROJECT_DIR$/crcc-study-springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crcc-study-zuul/crcc-study-zuul.iml" filepath="$PROJECT_DIR$/crcc-study-zuul/crcc-study-zuul.iml" />
+    </modules>
+  </component>
+</project>
