@@ -1,0 +1,16 @@
+server:
+  port: 8211
+spring:
+  application:
+    name: crcc-study-zuul
+zuul:
+  routes:
+#标识你服务的名字，这里可以自己定义，一般方便和规范来讲还是跟自己服务的名字一样
+    crcc-study-ribbon:
+      path: /crcc-study-ribbon/**
+      serviceId: crcc-study-ribbon
+
+eureka:
+  client:
+    serviceUrl:
+       defaultZone: http://localhost:8761/eureka/
